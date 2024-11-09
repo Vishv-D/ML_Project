@@ -9,8 +9,8 @@ Goal: Experiment with multiple machine learning models to determine which model 
 If you encounter issues with previewing the project, you can view it on Google Colab: 
 https://colab.research.google.com/drive/1pCjvGx4Bb80lt7P0nVZxHhsHNDkZpsP6?usp=sharing#scrollTo=qVoaiBqT8V7p
 
-Contributors
-Trisha Dutta - RA2211003011050
-Dev Aditya Singh - RA2211003011053
-Abhishek Mandal - RA2211003011056
-Vishv Patel - RA2211003011063
+## Contributors:<br>
+Trisha Dutta - RA2211003011050 <br>
+Dev Aditya Singh - RA2211003011053 <br>
+Abhishek Mandal - RA2211003011056 <br>
+Vishv Patel - RA2211003011063 <br>
