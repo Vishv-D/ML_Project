@@ -1,4 +1,4 @@
-# ML_Project : Animal Classification Using Machine Learning Models
+# ML Project : Animal Classification Using Machine Learning Models
 This project was developed as part of the Machine Learning course under the guidance of Dr. Anitha. Our objective was to explore various machine learning models to classify different types of animals using a labeled dataset. We applied multiple models from our coursework and evaluated their prediction accuracies, comparing the results to identify the best-performing model.
 
 ## Project Overview
@@ -11,9 +11,6 @@ https://colab.research.google.com/drive/1pCjvGx4Bb80lt7P0nVZxHhsHNDkZpsP6?usp=sh
 
 Contributors
 Trisha Dutta - RA2211003011050
-
 Dev Aditya Singh - RA2211003011053
-
 Abhishek Mandal - RA2211003011056
-
 Vishv Patel - RA2211003011063
